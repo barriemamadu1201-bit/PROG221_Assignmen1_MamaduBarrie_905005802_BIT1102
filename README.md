@@ -1,4 +1,3 @@
-# PROG221_Assignmen1_MamaduBarrie_905005802_BIT1102
 # COMMUNITY VACCINE TRACKER 
 
 A privacy-first, object-oriented Python program that helps a community health post in Sierra Leone register vaccinations, record doses, and spot children and adults who have missed their next dose, **without storing any personal information**.
